@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-===============================================================================================================
+
 
 Artificial intelligence (AI) can significantly enhance the efficiency and effectiveness of technical documentation. However, before implementing AI tools and technologies, it's essential to evaluate the availability and quality of data. In this chapter, we will discuss how to prepare for AI implementation by evaluating data availability and quality.
 

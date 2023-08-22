@@ -1,5 +1,4 @@
-Assessing Your Technical Writing Needs and Goals
-=======================================================================================================================
+
 
 Before implementing artificial intelligence (AI) tools and technologies in technical documentation, it's essential to assess your technical writing needs and goals. This includes understanding your audience, identifying pain points in your current workflows, and determining the specific functions you need from AI tools. In this chapter, we will discuss how to prepare for AI implementation by assessing your technical writing needs and goals.
 

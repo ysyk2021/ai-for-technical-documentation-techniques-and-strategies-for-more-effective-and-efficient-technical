@@ -1,5 +1,4 @@
-Overview of AI Applications for Automated Content Creation in Technical Documentation
-=========================================================================================================================================
+
 
 One of the most promising applications of AI in technical documentation is automated content creation. By using AI-powered tools and technologies, it's possible to automatically generate high-quality technical documentation, freeing up writers and editors to focus on more complex tasks. In this chapter, we'll explore some of the key AI applications for automated content creation in technical documentation.
 

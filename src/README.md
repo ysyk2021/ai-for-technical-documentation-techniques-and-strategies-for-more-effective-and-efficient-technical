@@ -1,4 +1,4 @@
-# Introduction
+
 
 Technical writing is a critical component of almost every industry, including software development, engineering, healthcare, and many more. Technical writers are responsible for creating user manuals, instructional guides, and other documentation that enables users to effectively and efficiently use products or services.
 

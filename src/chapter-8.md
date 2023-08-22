@@ -1,5 +1,4 @@
-Chapter 7: Using AI for Quality Control and Review
-==================================================
+
 
 Overview of AI Applications for Quality Control and Review in Technical Documentation
 -------------------------------------------------------------------------------------

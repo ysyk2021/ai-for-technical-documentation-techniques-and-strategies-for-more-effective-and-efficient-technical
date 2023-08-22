@@ -1,5 +1,4 @@
-Developing Governance Frameworks to Ensure Responsible AI Use
-==============================================================================================================================
+
 
 As artificial intelligence (AI) continues to grow in its capabilities and applications, it is important to consider the ethical and governance implications of its use in technical documentation. AI has the potential to greatly improve the efficiency and effectiveness of technical writing, but it also comes with risks and challenges that must be addressed.
 
