@@ -1,5 +1,4 @@
 
-
 As technical documentation becomes more complex and voluminous, quality control and review become increasingly important to ensure accuracy and consistency. Artificial intelligence (AI) can be used to automate several tasks related to quality control and review in technical documentation, providing efficient and effective solutions.
 
 Style Checking

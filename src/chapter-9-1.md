@@ -1,5 +1,4 @@
 
-
 As organizations adopt AI-powered tools for technical documentation, it's essential to measure the impact of these tools to ensure that they are effective. Measuring the impact of AI can help organizations identify areas for improvement and refinement and continuously adapt and improve their AI approach for technical documentation.
 
 Readability

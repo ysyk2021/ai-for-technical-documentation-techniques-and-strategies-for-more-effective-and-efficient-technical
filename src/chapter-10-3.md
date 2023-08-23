@@ -1,5 +1,4 @@
 
-
 As the use of artificial intelligence (AI) continues to grow in technical documentation, it is important to consider the ethical and governance implications of its implementation. In this chapter, we will explore the legal and regulatory considerations surrounding AI in technical documentation and discuss strategies for ensuring ethical and responsible use.
 
 Legal and Regulatory Considerations

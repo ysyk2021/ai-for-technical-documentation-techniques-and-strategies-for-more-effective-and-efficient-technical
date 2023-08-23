@@ -1,5 +1,4 @@
 
-
 When it comes to incorporating AI into your technical writing process, it's important to choose the right tools and technologies for your specific needs. In this chapter, we'll provide an overview of some of the most commonly used AI tools and technologies for technical documentation, and explore their respective strengths and limitations.
 
 Natural Language Processing (NLP)

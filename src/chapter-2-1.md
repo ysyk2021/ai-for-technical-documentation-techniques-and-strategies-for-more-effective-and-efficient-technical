@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize technical writing by automating repetitive tasks, improving content accuracy and consistency, and enhancing the user experience. In this chapter, we will define AI-powered technical writing and explore its benefits.
 
 Definition of AI-Powered Technical Writing

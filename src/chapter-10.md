@@ -1,5 +1,4 @@
 
-
 As organizations continue to implement AI-powered tools and technologies in their technical documentation workflows, it's important to consider the ethical and regulatory implications of these implementations. In this chapter, we'll explore how to develop governance frameworks to ensure responsible AI use in technical documentation.
 
 Ethical Considerations for AI Implementation in Technical Documentation

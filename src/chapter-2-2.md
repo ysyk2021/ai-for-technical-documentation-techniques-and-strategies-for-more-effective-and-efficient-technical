@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to revolutionize technical documentation by automating repetitive tasks, improving content accuracy and consistency, and enhancing the user experience. In this chapter, we will explore the types of AI used for technical documentation.
 
 Natural Language Processing (NLP)
