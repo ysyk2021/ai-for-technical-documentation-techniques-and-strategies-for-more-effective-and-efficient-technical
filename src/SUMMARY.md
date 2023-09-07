@@ -2,7 +2,6 @@
 
 - [Introduction](README.md)
   - [The importance of effective technical documentation for businesses](chapter-1-1.md)
-  - [Overview of the book's content](chapter-1-2.md)
 - [Chapter 1: Understanding AI in Technical Documentation](chapter-2.md)
   - [Definition of AI-powered technical writing](chapter-2-1.md)
   - [Types of AI used for technical documentation](chapter-2-2.md)
@@ -41,3 +40,4 @@
   - [Legal and regulatory considerations for AI implementation in technical documentation](chapter-10-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

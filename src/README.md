@@ -12,3 +12,7 @@ Whether you are a technical writer seeking to expand your knowledge of AI or a b
 By leveraging AI-based solutions, technical writers can not only increase the efficiency of their work but also enhance the quality and effectiveness of their documentation. With the right tools and techniques, technical writing can become a powerful and strategic asset for modern businesses.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
