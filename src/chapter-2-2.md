@@ -1,5 +1,4 @@
-Chapter: Types of AI Used for Technical Documentation
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore various types of artificial intelligence (AI) that can be used to enhance technical documentation and make technical writing more effective and efficient. By understanding the different AI techniques and strategies available, technical writers can improve the quality of documentation, streamline processes, and provide better support to users.
 
